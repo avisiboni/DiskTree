@@ -473,3 +473,5 @@ Bug reports and pull requests are welcome on [GitHub](https://github.com/Ryware/
 ## License
 
 Headroom is free and open source under the [MIT License](LICENSE).
+
+Made by [Ryware](https://ryware.dev). Also from Ryware: [Decim](https://decim.dev), find out why your data pipeline broke.
